@@ -73,7 +73,7 @@ This automatic data collection includes:
 
 - App opens and session starts/ends
 - Screen views (which screens within the app are visited)
-- In-app purchase and subscription events
+- In-app purchase events
 - Device information — model, operating system version, language, and country
 - App version number
 - An app-instance identifier — a randomly generated ID that identifies this installation of the app on your device. This is reset if you uninstall and reinstall the app.
