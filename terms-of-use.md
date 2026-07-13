@@ -5,7 +5,7 @@ title: Terms of Use – TownGuess UK
 
 # TownGuess UK — Terms of Use
 
-**Effective date: 29 June 2026**
+**Effective date: 13 July 2026**
 
 ## 1. Acceptance of Terms
 
@@ -26,19 +26,17 @@ You may not:
 - Use the App for any commercial purpose without our prior written consent
 - Remove or alter any proprietary notices or labels on the App
 
-## 4. Premium Subscription
+## 4. Full Access Unlock
 
-The App offers an optional auto-renewing subscription ("Premium") that unlocks additional content and features. Subscription details, pricing, and billing frequency are displayed in the App and on the App Store product page.
+The App offers an optional one-time in-app purchase ("Full Access") that permanently unlocks additional content and features on the Apple ID used to buy it. Pricing is displayed in the App and on the App Store product page.
 
-The following terms apply to subscriptions:
+The following terms apply to this purchase:
 
 - Payment is charged to your Apple ID account at confirmation of purchase.
-- Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period.
-- Renewal charges are applied within 24 hours prior to the end of the current period at the same price.
-- You can manage and cancel your subscription at any time via your Apple ID account settings. Cancellation takes effect at the end of the current billing period; no partial refunds are given.
-- The subscription includes a free introductory period at the start. After the introductory period ends, the subscription will automatically renew at the standard price unless cancelled at least 24 hours beforehand.
+- This is a single, non-recurring charge. It does not renew and there is no subscription or ongoing billing of any kind.
+- The unlock is tied to your Apple ID and can be restored at no additional charge on any device signed in with that Apple ID, using the "Restore Purchases" option in the App.
 
-All subscription purchases and refund requests are handled by Apple. We have no ability to process refunds directly. Refund requests should be directed to Apple in accordance with their standard policy.
+All purchases and refund requests are handled by Apple. We have no ability to process refunds directly. Refund requests should be directed to Apple in accordance with their standard policy.
 
 ## 5. Intellectual Property
 

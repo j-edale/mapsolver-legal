@@ -5,7 +5,7 @@ title: Privacy Policy – TownGuess UK
 
 # TownGuess UK — Privacy Policy
 
-**Effective date: 29 June 2026**
+**Effective date: 13 July 2026**
 
 ## 1. Overview
 
@@ -33,11 +33,11 @@ The app stores a small amount of data in your device's local storage (Apple User
 
 You can remove all locally stored data by uninstalling the app from your device.
 
-## 4. In-App Subscriptions and Apple
+## 4. In-App Purchase and Apple
 
-TownGuess UK offers an optional subscription to unlock additional features. All payment processing is handled entirely by Apple via StoreKit. We do not receive or store your payment details, Apple ID, or any other personal data related to your purchase. Apple's handling of this data is governed by their own Privacy Policy, available at <https://www.apple.com/legal/privacy/>.
+TownGuess UK offers an optional one-time in-app purchase to unlock additional features. All payment processing is handled entirely by Apple via StoreKit. We do not receive or store your payment details, Apple ID, or any other personal data related to your purchase. Apple's handling of this data is governed by their own Privacy Policy, available at <https://www.apple.com/legal/privacy/>.
 
-The app queries Apple's servers only to check whether you hold an active subscription entitlement. No personal information is transmitted to us as part of this process.
+The app queries Apple's servers only to check whether you hold the unlock entitlement. No personal information is transmitted to us as part of this process.
 
 ## 5. Map Tiles and OpenFreeMap
 
