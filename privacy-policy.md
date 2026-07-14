@@ -9,7 +9,7 @@ title: Privacy Policy – TownGuess UK
 
 ## 1. Overview
 
-TownGuess UK is a UK geography guessing game developed by Travel Nerd Games ("we", "us", or "our"). This Privacy Policy explains what information is and is not collected when you use the app, and how any such information is handled.
+TownGuess UK is a UK geography guessing game developed by Edward John Welch ("we", "us", or "our"). This Privacy Policy explains what information is and is not collected when you use the app, and how any such information is handled.
 
 We have designed this app with privacy in mind. We do not collect or store personal information about you. This policy explains the limited technical data that is transmitted to third-party services when you use the app, and how it is handled.
 
@@ -101,9 +101,9 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-Travel Nerd Games  
+Edward John Welch  
 Email: <travelnerdgames@icloud.com>
 
 ---
 
-© 2026 Travel Nerd Games. All rights reserved.
+© 2026 Edward John Welch. All rights reserved.

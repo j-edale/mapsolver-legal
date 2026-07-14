@@ -13,7 +13,7 @@ By downloading, installing, or using TownGuess UK (the "App"), you agree to be b
 
 ## 2. About the App
 
-TownGuess UK is an iOS game in which players identify UK towns and cities from unlabelled or partially labelled street maps. The App is provided by Travel Nerd Games ("Developer").
+TownGuess UK is an iOS game in which players identify UK towns and cities from unlabelled or partially labelled street maps. The App is provided by Edward John Welch ("Developer").
 
 ## 3. Licence to Use
 
@@ -40,7 +40,7 @@ All purchases and refund requests are handled by Apple. We have no ability to pr
 
 ## 5. Intellectual Property
 
-All content in the App — including but not limited to the game design, graphics, maps, place-name data, user interface, and underlying software — is the property of Travel Nerd Games or is used under licence from third parties (including MapLibre and OpenFreeMap). All rights are reserved.
+All content in the App — including but not limited to the game design, graphics, maps, place-name data, user interface, and underlying software — is the property of Edward John Welch or is used under licence from third parties (including MapLibre and OpenFreeMap). All rights are reserved.
 
 Map tiles are provided by OpenFreeMap under the ODbL licence. MapLibre Native is used under the BSD-2-Clause licence.
 
@@ -94,9 +94,9 @@ You acknowledge and agree that:
 
 If you have any questions about these Terms, please contact us at:
 
-Travel Nerd Games  
+Edward John Welch  
 Email: <travelnerdgames@icloud.com>
 
 ---
 
-© 2026 Travel Nerd Games. All rights reserved.
+© 2026 Edward John Welch. All rights reserved.
