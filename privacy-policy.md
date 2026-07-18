@@ -87,7 +87,7 @@ Google Analytics for Firebase data is processed by Google in accordance with the
 
 Both Firebase Crashlytics and Google Analytics for Firebase transmit data to Google's servers, which may be located in a country other than your own country of residence. By using the app, you acknowledge that your data (limited to the technical diagnostic and usage information described in sections 6 and 7) may be transferred to and processed in countries whose data protection laws may differ from those in your own country of residence.
 
-Google LLC complies with the UK Extension to the EU-US Data Privacy Framework and implements appropriate safeguards for international data transfers in accordance with UK GDPR requirements.
+Google LLC relies on recognised legal safeguards for these international transfers, including the EU-U.S. Data Privacy Framework (together with its UK and Swiss extensions, where applicable) and Standard Contractual Clauses, and processes data in accordance with the data protection laws applicable to you.
 
 ## 9. Children's Privacy
 
