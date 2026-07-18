@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Privacy Policy – TownGuess UK
+title: Privacy Policy – TownGuess
 ---
 
-# TownGuess UK — Privacy Policy
+# TownGuess — Privacy Policy
 
-**Effective date: 13 July 2026**
+**Effective date: 18 July 2026**
 
 ## 1. Overview
 
-TownGuess UK is a UK geography guessing game developed by Edward John Welch ("we", "us", or "our"). This Privacy Policy explains what information is and is not collected when you use the app, and how any such information is handled.
+TownGuess is a geography guessing game developed by Edward John Welch ("we", "us", or "our"). This Privacy Policy explains what information is and is not collected when you use the app, and how any such information is handled.
 
 We have designed this app with privacy in mind. We do not collect or store personal information about you. This policy explains the limited technical data that is transmitted to third-party services when you use the app, and how it is handled.
 
@@ -27,7 +27,7 @@ We do not collect any of the following:
 
 The app stores a small amount of data in your device's local storage (Apple UserDefaults) to remember your preferences and progress between sessions. This data never leaves your device and is not accessible to us. It includes:
 
-- Game settings — chosen country, region, difficulty, game mode, language, and map style
+- Game settings — chosen country, state, region, difficulty, game mode, language, and map style
 - High scores — keyed by region, game mode, and difficulty
 - In-progress game state — current round, score, and towns already used in a session
 
@@ -35,7 +35,7 @@ You can remove all locally stored data by uninstalling the app from your device.
 
 ## 4. In-App Purchase and Apple
 
-TownGuess UK offers an optional one-time in-app purchase to unlock additional features. All payment processing is handled entirely by Apple via StoreKit. We do not receive or store your payment details, Apple ID, or any other personal data related to your purchase. Apple's handling of this data is governed by their own Privacy Policy, available at <https://www.apple.com/legal/privacy/>.
+TownGuess offers an optional one-time in-app purchase to unlock additional features. All payment processing is handled entirely by Apple via StoreKit. We do not receive or store your payment details, Apple ID, or any other personal data related to your purchase. Apple's handling of this data is governed by their own Privacy Policy, available at <https://www.apple.com/legal/privacy/>.
 
 The app queries Apple's servers only to check whether you hold the unlock entitlement. No personal information is transmitted to us as part of this process.
 
@@ -85,13 +85,13 @@ Google Analytics for Firebase data is processed by Google in accordance with the
 
 ## 8. International Data Transfers
 
-Both Firebase Crashlytics and Google Analytics for Firebase transmit data to Google's servers, which may be located in the United States or other countries outside the UK. By using the app, you acknowledge that your data (limited to the technical diagnostic and usage information described in sections 6 and 7) may be transferred to and processed in countries whose data protection laws may differ from those in the UK.
+Both Firebase Crashlytics and Google Analytics for Firebase transmit data to Google's servers, which may be located in a country other than your own country of residence. By using the app, you acknowledge that your data (limited to the technical diagnostic and usage information described in sections 6 and 7) may be transferred to and processed in countries whose data protection laws may differ from those in your own country of residence.
 
 Google LLC complies with the UK Extension to the EU-US Data Privacy Framework and implements appropriate safeguards for international data transfers in accordance with UK GDPR requirements.
 
 ## 9. Children's Privacy
 
-TownGuess UK is suitable for all ages. The technical data collected automatically by Firebase Crashlytics and Google Analytics for Firebase (described in sections 6 and 7) is collected from all users regardless of age. We do not collect any additional personal information from children under the age of 13, or indeed from any user of any age.
+TownGuess is suitable for all ages. The technical data collected automatically by Firebase Crashlytics and Google Analytics for Firebase (described in sections 6 and 7) is collected from all users regardless of age. We do not collect any additional personal information from children under the age of 13 (or the equivalent minimum age under applicable local law) or indeed from any user of any age.
 
 ## 10. Changes to This Policy
 
