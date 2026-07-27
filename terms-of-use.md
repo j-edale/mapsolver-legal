@@ -1,19 +1,19 @@
 ---
 layout: default
-title: Terms of Use – TownGuess
+title: Terms of Use – MapSolver
 ---
 
-# TownGuess — Terms of Use
+# MapSolver — Terms of Use
 
 **Effective date: 18 July 2026**
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using any version of TownGuess (the "App"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, please do not use the App. These Terms are governed by the laws of England and Wales.
+By downloading, installing, or using any version of MapSolver (the "App"), you agree to be bound by these Terms of Use ("Terms"). If you do not agree to these Terms, please do not use the App. These Terms are governed by the laws of England and Wales.
 
 ## 2. About the App
 
-TownGuess is an iOS game in which players identify towns and cities from unlabelled or partially labelled street maps. The App is provided by Edward John Welch ("Developer").
+MapSolver is an iOS game in which players identify towns and cities from unlabelled or partially labelled street maps. The App is provided by Edward John Welch ("Developer").
 
 ## 3. Licence to Use
 

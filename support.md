@@ -1,1 +1,1 @@
-For support with TownGuess UK please email : travelnerdgames@icloud.com
+For support with MapSolver UK please email : travelnerdgames@icloud.com

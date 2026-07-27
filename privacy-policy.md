@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Privacy Policy – TownGuess
+title: Privacy Policy – MapSolver
 ---
 
-# TownGuess — Privacy Policy
+# MapSolver — Privacy Policy
 
 **Effective date: 18 July 2026**
 
 ## 1. Overview
 
-TownGuess is a geography guessing game developed by Edward John Welch ("we", "us", or "our"). This Privacy Policy explains what information is and is not collected when you use the app, and how any such information is handled.
+MapSolver is a geography guessing game developed by Edward John Welch ("we", "us", or "our"). This Privacy Policy explains what information is and is not collected when you use the app, and how any such information is handled.
 
 We have designed this app with privacy in mind. We do not collect or store personal information about you. This policy explains the limited technical data that is transmitted to third-party services when you use the app, and how it is handled.
 
@@ -35,7 +35,7 @@ You can remove all locally stored data by uninstalling the app from your device.
 
 ## 4. In-App Purchase and Apple
 
-TownGuess offers an optional one-time in-app purchase to unlock additional features. All payment processing is handled entirely by Apple via StoreKit. We do not receive or store your payment details, Apple ID, or any other personal data related to your purchase. Apple's handling of this data is governed by their own Privacy Policy, available at <https://www.apple.com/legal/privacy/>.
+MapSolver offers an optional one-time in-app purchase to unlock additional features. All payment processing is handled entirely by Apple via StoreKit. We do not receive or store your payment details, Apple ID, or any other personal data related to your purchase. Apple's handling of this data is governed by their own Privacy Policy, available at <https://www.apple.com/legal/privacy/>.
 
 The app queries Apple's servers only to check whether you hold the unlock entitlement. No personal information is transmitted to us as part of this process.
 
@@ -91,7 +91,7 @@ Google LLC relies on recognised legal safeguards for these international transfe
 
 ## 9. Children's Privacy
 
-TownGuess is suitable for all ages. The technical data collected automatically by Firebase Crashlytics and Google Analytics for Firebase (described in sections 6 and 7) is collected from all users regardless of age. We do not collect any additional personal information from children under the age of 13 (or the equivalent minimum age under applicable local law) or indeed from any user of any age.
+MapSolver is suitable for all ages. The technical data collected automatically by Firebase Crashlytics and Google Analytics for Firebase (described in sections 6 and 7) is collected from all users regardless of age. We do not collect any additional personal information from children under the age of 13 (or the equivalent minimum age under applicable local law) or indeed from any user of any age.
 
 ## 10. Changes to This Policy
 
