@@ -5,7 +5,7 @@ title: Terms of Use – MapSolver
 
 # MapSolver — Terms of Use
 
-**Effective date: 18 July 2026**
+**Effective date: 4 Aug 2026**
 
 ## 1. Acceptance of Terms
 
