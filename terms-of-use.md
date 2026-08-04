@@ -26,15 +26,14 @@ You may not:
 - Use the App for any commercial purpose without our prior written consent
 - Remove or alter any proprietary notices or labels on the App
 
-## 4. Full Access Unlock
+## 4. Tipping the Developer
 
-The App offers an optional one-time in-app purchase ("Full Access") that permanently unlocks additional content and features on the Apple ID used to buy it. Pricing is displayed in the App and on the App Store product page.
+The App offers optional in-app purchases that allow users to tip the developer. Pricing is displayed in the App and on the App Store product page.
 
-The following terms apply to this purchase:
+The following terms apply to these purchases:
 
 - Payment is charged to your Apple ID account at confirmation of purchase.
 - This is a single, non-recurring charge. It does not renew and there is no subscription or ongoing billing of any kind.
-- The unlock is tied to your Apple ID and can be restored at no additional charge on any device signed in with that Apple ID, using the "Restore Purchases" option in the App.
 
 All purchases and refund requests are handled by Apple. We have no ability to process refunds directly. Refund requests should be directed to Apple in accordance with their standard policy.
 
