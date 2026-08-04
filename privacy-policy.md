@@ -35,7 +35,7 @@ You can remove all locally stored data by uninstalling the app from your device.
 
 ## 4. In-App Purchase and Apple
 
-MapSolver offers an optional one-time in-app purchase to unlock additional features. All payment processing is handled entirely by Apple via StoreKit. We do not receive or store your payment details, Apple ID, or any other personal data related to your purchase. Apple's handling of this data is governed by their own Privacy Policy, available at <https://www.apple.com/legal/privacy/>.
+MapSolver offers optional in-app purchases to tip the developer. All payment processing is handled entirely by Apple via StoreKit. We do not receive or store your payment details, Apple ID, or any other personal data related to your purchase. Apple's handling of this data is governed by their own Privacy Policy, available at <https://www.apple.com/legal/privacy/>.
 
 The app queries Apple's servers only to check whether you hold the unlock entitlement. No personal information is transmitted to us as part of this process.
 
